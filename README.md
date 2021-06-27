@@ -13,7 +13,7 @@ npm install bgm-recommend
 Set the API Key to an environment variable and execute the command.
 
 ```sh
-export BGM_CANDIDATES_API_KEY=YOUR_API_KEY
+export BGM_RECOMMEND_API_KEY=YOUR_API_KEY
 npx bgm-recommend
 ```
 

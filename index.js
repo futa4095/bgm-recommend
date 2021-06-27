@@ -2,7 +2,7 @@
 
 const search = require('youtube-search')
 const { Select } = require('enquirer')
-const ENV_NAME_API_KEY = 'BGM_CANDIDATES_API_KEY'
+const ENV_NAME_API_KEY = 'BGM_RECOMMEND_API_KEY'
 
 const chooseKeyword = async () => {
   const keywordList = () => {
