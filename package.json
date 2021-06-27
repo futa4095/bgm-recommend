@@ -1,10 +1,10 @@
 {
   "name": "bgm-recommend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Suggest background music from YouTube.",
   "main": "index.js",
   "bin": {
-    "bgm-recommend" : "index.js"
+    "bgm-recommend": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
